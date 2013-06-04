@@ -1,0 +1,5 @@
+memory:
+  max: 100M
+disk:
+  dir: /var/caching
+  level: 0

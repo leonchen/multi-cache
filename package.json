@@ -1,0 +1,20 @@
+{
+  "name": "multi-cache",
+  "description": "multi caching",
+  "keywords": ["cache", "memory", "filesystem"],
+  "homepage": "https://github.com/leonchen/multi-cache",
+  "author": "Leon Chen",
+  "version": "0.0.1",
+  "licenses": [ { "type": "MIT" }],
+  "main" : "index.js",
+  "bin": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/leonchen/multi-cache.git"
+  },
+  "dependencies": {
+    "coffee-script": ">=1.6.2",
+    "express": ">=3.2.0",
+    "js-yaml": ">=2.0.4"
+  }
+}
